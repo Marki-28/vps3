@@ -38,7 +38,7 @@ getgenv().bgsInfConfig = {
     ENCHANT_HIGH_ROLLER = true,
 
     RIFT_EGGS = {"Neon Egg"},
-    HATCH_1X_EGG = {"Chance Egg", "Neon Egg"}, 
+    HATCH_1X_EGG = {"Chance Egg"}, 
 
     WEBHOOK_URL = "https://discord.com/api/webhooks/971017276201504788/Z8YErd3GaU0hwU9jcxZHYqf_RAFqrr-B63w7mV3U_DxwOc7yVeC9N4fhSrlucKYND_G0",
     DISCORD_ID = "789192982980591626",
