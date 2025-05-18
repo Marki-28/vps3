@@ -23,7 +23,7 @@ getgenv().bgsInfConfig = {
     IGNORE_MINIGAME = true,
     USE_MYSTERY_BOX = true,
     AUTO_BOUNTY_RIFT = true,
-    AUTO_COLLECT_WORLD_REWARDS = true,
+    AUTO_COLLECT_WORLD_REWARDS = false,
 
     RARITY_TO_SHINY = {"Common", "Unique", "Rare", "Epic", "Legendary"},
     RARITY_TO_DELETE = {"Common", "Unique", "Rare", "Epic", "Legendary"},
