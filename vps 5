@@ -28,7 +28,7 @@ getgenv().bgsInfConfig = {
 
     RARITY_TO_SHINY = {"Common", "Unique", "Rare", "Epic", "Legendary"},
     RARITY_TO_DELETE = {"Common", "Unique", "Rare", "Epic", "Legendary"},
-    PETS_TO_DELETE = {"Demonic Hydra", "Crystal Unicorn"},
+    PETS_TO_DELETE = {"Demonic Hydra", "Crystal Unicorn", "Kiwi Dragon", "Inferno Cube"},
     DELETE_LEGENDARY_SHINY = true,
     DELETE_LEGENDARY_MYTHIC = true,
     LEGENDARY_TIER_TO_DELETE = 1,
